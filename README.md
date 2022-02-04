@@ -29,8 +29,8 @@ R-Square is another statistical measure that indicates how close the regression 
 
 ## Tools and libraries used:
 
-1.Python
-2.Pandas, NumPy
-3.Scikit-learn
-4.Matplotlib
-5.Seaborn 
+1. Python
+2. Pandas, NumPy
+3. Scikit-learn
+4. Matplotlib
+5. Seaborn 
