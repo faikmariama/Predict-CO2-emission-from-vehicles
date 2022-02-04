@@ -10,13 +10,13 @@ This project is based on a CO2_Emission_Canada database that we downloaded via t
 
 1. Data analysis and exploration
 2. Data visualization
-3.Machine learning
+3. Machine learning
 
 ## Machine Learning Algorithm:
 
-1.Univariate linear regression
+1. Univariate linear regression
 2. Multivariate linear regression
-3.Clustering: Algorithm of K_means
+3. Clustering: Algorithm of K_means
 
 ## Metrics used for model evaluation:
 
